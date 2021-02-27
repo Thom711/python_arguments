@@ -1,5 +1,4 @@
 from data import surface_gravity_per_planet
-import math
 
 # Do not modify these lines
 __winc_id__ = '7b9401ad7f544be2a23321292dd61cb6'
